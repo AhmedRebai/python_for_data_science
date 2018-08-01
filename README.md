@@ -1,5 +1,7 @@
 # Cours en développement sur le thème "Python for Data Science".
 
+# *** In Progress ***
+
 # Je l'ai commencé mardi 17 juillet 2018.
 
 # Le cours est rédigé en Français.
